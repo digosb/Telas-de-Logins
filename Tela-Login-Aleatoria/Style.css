@@ -57,6 +57,12 @@ header {
   margin-left: 40px;
 }
 
+.navigation .btnLogin-popup:hover {
+  background: #fff;
+  color: #0557a3;
+
+}
+
 .navigation a::after {
     content: '';
     position: absolute;
