@@ -101,6 +101,11 @@ header {
   padding: 40PX;
 }
 
+.wrapper .form-box.register {
+  position: absolute;
+  transform: translateX(400px);
+}
+
 .wrapper .icon-close {
   position: absolute;
   top: 0;

@@ -12,3 +12,10 @@ uma orientação que sempre vejo dos desenvolvedores é:
 3.Escreva os passo a passo de como irá fazer, 
 4.Execute. 
 ---
+
+# criar 
+src/
+├── components/
+│   └── LoginForm.jsx
+└── pages/
+    └── LoginPage.jsx
