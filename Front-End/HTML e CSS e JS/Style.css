@@ -11,6 +11,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: url('forest-5523052_1280.jpg') no-repeat;
+    background-color: #59a3e9;
     background-size: cover;
     background-position: center;
 }
