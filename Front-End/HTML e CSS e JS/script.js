@@ -20,3 +20,16 @@ iconClose.addEventListener('click', () => {
     wrapper.classList.remove('active-popup');
 
 });
+
+/*
+
+clicar no botão login e aparecer a tela de login 
+clicar no botão fechar na tela login e desaparecer a tela login 
+
+
+*/
+
+function AbrirTelaLogin() {
+    console.log("aberto")
+
+}
