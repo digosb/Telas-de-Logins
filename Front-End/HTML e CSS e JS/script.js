@@ -1,3 +1,4 @@
+
 const wrapper = document.querySelector('.wrapper');
 const loginLink = document.querySelector('.login-link');
 const registerLink = document.querySelector('.register-linlk');
@@ -12,7 +13,7 @@ loginLink.addEventListener('click', () => {
     wrapper.classList.remove('active');
 });
 
-btnPopup.addEventListener('click', () => {
+ btnPopup.addEventListener('click', () => {
     wrapper.classList.add('active-popup');
 });
 
@@ -21,15 +22,12 @@ iconClose.addEventListener('click', () => {
 
 });
 
+
 /*
 
 clicar no botão login e aparecer a tela de login 
+cria variavel para localizar botão
 clicar no botão fechar na tela login e desaparecer a tela login 
 
 
 */
-
-function AbrirTelaLogin() {
-    console.log("aberto")
-
-}
